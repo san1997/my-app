@@ -1,0 +1,23 @@
+.header {
+    font-size: 64px
+}
+
+.input-area {
+    width: 400px;
+    height: 30px;
+}
+
+.list {
+    padding-top: 50px;
+    text-align: left;
+}
+
+.onclick-info {
+    font-size: 16px;
+    background: teal;
+    padding: 5px;
+}
+
+.collapsible-card {
+    font-size: 24px;
+}
